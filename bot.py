@@ -16,3 +16,4 @@ async def reload(ctx):
 
 client.load_extension('cogs.command_status')
 client.run(config['token'])
+# Tab contributed by adding this line
