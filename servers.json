@@ -1,0 +1,18 @@
+{
+  "1": {
+    "name": "Freebuild",
+    "server": "freebuild/v2/server/status?players=true"
+  },
+  "2": {
+    "name": "Freebuild+",
+    "server": "freebuild-plus/v2/server/status?players=true"
+  },
+  "3": {
+    "name": "Items",
+    "server": "items/v2/server/status?players=true"
+  },
+  "4": {
+    "name": "Nexus",
+    "server": "nexus/v2/server/status?players=true"
+  }
+}
